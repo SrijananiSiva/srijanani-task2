@@ -1,5 +1,10 @@
 .App {
   text-align: center;
+  color: aqua;
+  background-color: black;
+  border-radius: 25px;
+  font-weight: bold;
+
 }
 
 .App-logo {
